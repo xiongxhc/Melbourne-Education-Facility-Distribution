@@ -1,0 +1,846 @@
+{
+	"melbourne": [{
+		"suburb": "Abbotsford",
+		"population": "4906"
+	}, {
+		"suburb": "Airport West",
+		"population": "6959"
+	}, {
+		"suburb": "Albert Park",
+		"population": "14132"
+	}, {
+		"suburb": "Alphington - Fairfield",
+		"population": "8205"
+	}, {
+		"suburb": "Altona",
+		"population": "11779"
+	}, {
+		"suburb": "Altona Meadows",
+		"population": "18746"
+	}, {
+		"suburb": "Altona North",
+		"population": "13010"
+	}, {
+		"suburb": "Ardeer - Albion",
+		"population": "7162"
+	}, {
+		"suburb": "Armadale",
+		"population": "8760"
+	}, {
+		"suburb": "Ascot Vale",
+		"population": "13475"
+	}, {
+		"suburb": "Ashburton (Vic.)",
+		"population": "7586"
+	}, {
+		"suburb": "Ashwood - Chadstone",
+		"population": "16252"
+	}, {
+		"suburb": "Aspendale Gardens - Waterways",
+		"population": "8757"
+	}, {
+		"suburb": "Bacchus Marsh",
+		"population": "17155"
+	}, {
+		"suburb": "Balwyn",
+		"population": "15586"
+	}, {
+		"suburb": "Balwyn North",
+		"population": "19942"
+	}, {
+		"suburb": "Bayswater",
+		"population": "11240"
+	}, {
+		"suburb": "Bayswater North",
+		"population": "11476"
+	}, {
+		"suburb": "Beaconsfield - Officer",
+		"population": "8097"
+	}, {
+		"suburb": "Beaumaris",
+		"population": "12834"
+	}, {
+		"suburb": "Belgrave - Selby",
+		"population": "10063"
+	}, {
+		"suburb": "Bentleigh - McKinnon",
+		"population": "20883"
+	}, {
+		"suburb": "Bentleigh East",
+		"population": "25924"
+	}, {
+		"suburb": "Berwick - North",
+		"population": "22250"
+	}, {
+		"suburb": "Berwick - South",
+		"population": "22987"
+	}, {
+		"suburb": "Blackburn",
+		"population": "19822"
+	}, {
+		"suburb": "Blackburn South",
+		"population": "10584"
+	}, {
+		"suburb": "Boronia - The Basin",
+		"population": "25052"
+	}, {
+		"suburb": "Box Hill",
+		"population": "17370"
+	}, {
+		"suburb": "Box Hill North",
+		"population": "16427"
+	}, {
+		"suburb": "Braeside",
+		"population": "0"
+	}, {
+		"suburb": "Braybrook",
+		"population": "15932"
+	}, {
+		"suburb": "Brighton (Vic.)",
+		"population": "21257"
+	}, {
+		"suburb": "Brighton East",
+		"population": "15412"
+	}, {
+		"suburb": "Broadmeadows",
+		"population": "11695"
+	}, {
+		"suburb": "Brunswick",
+		"population": "22764"
+	}, {
+		"suburb": "Brunswick East",
+		"population": "8476"
+	}, {
+		"suburb": "Brunswick West",
+		"population": "13149"
+	}, {
+		"suburb": "Bulleen",
+		"population": "10868"
+	}, {
+		"suburb": "Bundoora - East",
+		"population": "9516"
+	}, {
+		"suburb": "Bundoora - North",
+		"population": "5438"
+	}, {
+		"suburb": "Bundoora - West",
+		"population": "6122"
+	}, {
+		"suburb": "Bunyip - Garfield",
+		"population": "8203"
+	}, {
+		"suburb": "Burwood",
+		"population": "10796"
+	}, {
+		"suburb": "Burwood East",
+		"population": "10141"
+	}, {
+		"suburb": "Cairnlea",
+		"population": "8839"
+	}, {
+		"suburb": "Camberwell",
+		"population": "20029"
+	}, {
+		"suburb": "Campbellfield - Coolaroo",
+		"population": "16029"
+	}, {
+		"suburb": "Carlton",
+		"population": "14104"
+	}, {
+		"suburb": "Carlton North - Princes Hill",
+		"population": "8296"
+	}, {
+		"suburb": "Carnegie",
+		"population": "16299"
+	}, {
+		"suburb": "Caroline Springs",
+		"population": "26068"
+	}, {
+		"suburb": "Carrum - Patterson Lakes",
+		"population": "11187"
+	}, {
+		"suburb": "Carrum Downs",
+		"population": "19122"
+	}, {
+		"suburb": "Caulfield - North",
+		"population": "19770"
+	}, {
+		"suburb": "Caulfield - South",
+		"population": "16435"
+	}, {
+		"suburb": "Chelsea - Bonbeach",
+		"population": "12955"
+	}, {
+		"suburb": "Chelsea Heights",
+		"population": "5185"
+	}, {
+		"suburb": "Cheltenham - Highett (East)",
+		"population": "20365"
+	}, {
+		"suburb": "Cheltenham - Highett (West)",
+		"population": "10190"
+	}, {
+		"suburb": "Chirnside Park",
+		"population": "9125"
+	}, {
+		"suburb": "Clarinda - Oakleigh South",
+		"population": "11662"
+	}, {
+		"suburb": "Clayton",
+		"population": "17709"
+	}, {
+		"suburb": "Clayton South",
+		"population": "11625"
+	}, {
+		"suburb": "Coburg",
+		"population": "24977"
+	}, {
+		"suburb": "Coburg North",
+		"population": "6575"
+	}, {
+		"suburb": "Collingwood",
+		"population": "6467"
+	}, {
+		"suburb": "Craigieburn - Mickleham",
+		"population": "34319"
+	}, {
+		"suburb": "Cranbourne",
+		"population": "18622"
+	}, {
+		"suburb": "Cranbourne East",
+		"population": "8211"
+	}, {
+		"suburb": "Cranbourne North",
+		"population": "14570"
+	}, {
+		"suburb": "Cranbourne South",
+		"population": "6716"
+	}, {
+		"suburb": "Cranbourne West",
+		"population": "8743"
+	}, {
+		"suburb": "Croydon",
+		"population": "29597"
+	}, {
+		"suburb": "Croydon Hills - Warranwood",
+		"population": "18015"
+	}, {
+		"suburb": "Dandenong",
+		"population": "25923"
+	}, {
+		"suburb": "Dandenong North",
+		"population": "21910"
+	}, {
+		"suburb": "Deer Park - Derrimut",
+		"population": "22193"
+	}, {
+		"suburb": "Delahey",
+		"population": "8443"
+	}, {
+		"suburb": "Dingley Village",
+		"population": "10170"
+	}, {
+		"suburb": "Docklands",
+		"population": "5791"
+	}, {
+		"suburb": "Doncaster",
+		"population": "18360"
+	}, {
+		"suburb": "Doncaster East",
+		"population": "27047"
+	}, {
+		"suburb": "Donvale - Park Orchards",
+		"population": "15499"
+	}, {
+		"suburb": "Doveton",
+		"population": "10255"
+	}, {
+		"suburb": "Dromana",
+		"population": "9014"
+	}, {
+		"suburb": "East Melbourne",
+		"population": "4903"
+	}, {
+		"suburb": "Edithvale - Aspendale",
+		"population": "12077"
+	}, {
+		"suburb": "Elsternwick",
+		"population": "10741"
+	}, {
+		"suburb": "Eltham",
+		"population": "22804"
+	}, {
+		"suburb": "Elwood",
+		"population": "14638"
+	}, {
+		"suburb": "Emerald - Cockatoo",
+		"population": "17509"
+	}, {
+		"suburb": "Endeavour Hills",
+		"population": "25504"
+	}, {
+		"suburb": "Epping",
+		"population": "26855"
+	}, {
+		"suburb": "Essendon - Aberfeldie",
+		"population": "24761"
+	}, {
+		"suburb": "Essendon Airport",
+		"population": "0"
+	}, {
+		"suburb": "Fawkner",
+		"population": "12597"
+	}, {
+		"suburb": "Ferntree Gully",
+		"population": "28075"
+	}, {
+		"suburb": "Fitzroy",
+		"population": "9430"
+	}, {
+		"suburb": "Fitzroy North",
+		"population": "11473"
+	}, {
+		"suburb": "Flemington",
+		"population": "9160"
+	}, {
+		"suburb": "Flemington Racecourse",
+		"population": "0"
+	}, {
+		"suburb": "Flinders",
+		"population": "5331"
+	}, {
+		"suburb": "Footscray",
+		"population": "13203"
+	}, {
+		"suburb": "Forest Hill",
+		"population": "10051"
+	}, {
+		"suburb": "Frankston",
+		"population": "21583"
+	}, {
+		"suburb": "Frankston North",
+		"population": "19061"
+	}, {
+		"suburb": "Frankston South",
+		"population": "17612"
+	}, {
+		"suburb": "Gisborne",
+		"population": "11078"
+	}, {
+		"suburb": "Gladstone Park - Westmeadows",
+		"population": "17109"
+	}, {
+		"suburb": "Glen Iris - East",
+		"population": "15953"
+	}, {
+		"suburb": "Glen Waverley - East",
+		"population": "20722"
+	}, {
+		"suburb": "Glen Waverley - West",
+		"population": "18486"
+	}, {
+		"suburb": "Glenroy - Hadfield",
+		"population": "27776"
+	}, {
+		"suburb": "Greensborough",
+		"population": "20226"
+	}, {
+		"suburb": "Greenvale - Bulla",
+		"population": "12101"
+	}, {
+		"suburb": "Hallam",
+		"population": "10162"
+	}, {
+		"suburb": "Hampton",
+		"population": "16876"
+	}, {
+		"suburb": "Hampton Park - Lynbrook",
+		"population": "23767"
+	}, {
+		"suburb": "Hastings - Somers",
+		"population": "20299"
+	}, {
+		"suburb": "Hawthorn",
+		"population": "20704"
+	}, {
+		"suburb": "Hawthorn East",
+		"population": "13572"
+	}, {
+		"suburb": "Healesville - Yarra Glen",
+		"population": "12844"
+	}, {
+		"suburb": "Heidelberg - Rosanna",
+		"population": "13614"
+	}, {
+		"suburb": "Heidelberg West",
+		"population": "13445"
+	}, {
+		"suburb": "Hillside",
+		"population": "15543"
+	}, {
+		"suburb": "Hoppers Crossing - North",
+		"population": "18978"
+	}, {
+		"suburb": "Hoppers Crossing - South",
+		"population": "18620"
+	}, {
+		"suburb": "Hughesdale",
+		"population": "7055"
+	}, {
+		"suburb": "Hurstbridge",
+		"population": "3511"
+	}, {
+		"suburb": "Ivanhoe",
+		"population": "11085"
+	}, {
+		"suburb": "Ivanhoe East - Eaglemont",
+		"population": "7691"
+	}, {
+		"suburb": "Keilor",
+		"population": "8313"
+	}, {
+		"suburb": "Keilor Downs",
+		"population": "13469"
+	}, {
+		"suburb": "Keilor East",
+		"population": "24245"
+	}, {
+		"suburb": "Kensington",
+		"population": "9719"
+	}, {
+		"suburb": "Kew",
+		"population": "23587"
+	}, {
+		"suburb": "Kew East",
+		"population": "6305"
+	}, {
+		"suburb": "Keysborough",
+		"population": "20044"
+	}, {
+		"suburb": "Kilsyth",
+		"population": "8530"
+	}, {
+		"suburb": "Kinglake",
+		"population": "3577"
+	}, {
+		"suburb": "Kings Park (Vic.)",
+		"population": "13529"
+	}, {
+		"suburb": "Kingsbury",
+		"population": "10356"
+	}, {
+		"suburb": "Knoxfield - Scoresby",
+		"population": "13032"
+	}, {
+		"suburb": "Koo Wee Rup",
+		"population": "6528"
+	}, {
+		"suburb": "Lalor",
+		"population": "19873"
+	}, {
+		"suburb": "Langwarrin",
+		"population": "22498"
+	}, {
+		"suburb": "Laverton",
+		"population": "5351"
+	}, {
+		"suburb": "Lilydale - Coldstream",
+		"population": "17989"
+	}, {
+		"suburb": "Lynbrook - Lyndhurst",
+		"population": "11666"
+	}, {
+		"suburb": "Lysterfield",
+		"population": "6551"
+	}, {
+		"suburb": "Macedon",
+		"population": "3183"
+	}, {
+		"suburb": "Malvern - Glen Iris",
+		"population": "19301"
+	}, {
+		"suburb": "Malvern East",
+		"population": "20066"
+	}, {
+		"suburb": "Maribyrnong",
+		"population": "10165"
+	}, {
+		"suburb": "Meadow Heights",
+		"population": "14842"
+	}, {
+		"suburb": "Melbourne",
+		"population": "20030"
+	}, {
+		"suburb": "Melbourne Airport",
+		"population": "0"
+	}, {
+		"suburb": "Melton",
+		"population": "17701"
+	}, {
+		"suburb": "Melton South",
+		"population": "15803"
+	}, {
+		"suburb": "Melton West",
+		"population": "14171"
+	}, {
+		"suburb": "Mentone",
+		"population": "11667"
+	}, {
+		"suburb": "Mill Park - North",
+		"population": "18236"
+	}, {
+		"suburb": "Mill Park - South",
+		"population": "12284"
+	}, {
+		"suburb": "Mitcham (Vic.)",
+		"population": "14811"
+	}, {
+		"suburb": "Monbulk - Silvan",
+		"population": "5542"
+	}, {
+		"suburb": "Montmorency - Briar Hill",
+		"population": "15628"
+	}, {
+		"suburb": "Montrose",
+		"population": "6733"
+	}, {
+		"suburb": "Moonee Ponds",
+		"population": "13531"
+	}, {
+		"suburb": "Moorabbin - Heatherton",
+		"population": "8052"
+	}, {
+		"suburb": "Moorabbin Airport",
+		"population": "0"
+	}, {
+		"suburb": "Mooroolbark",
+		"population": "20689"
+	}, {
+		"suburb": "Mordialloc - Parkdale",
+		"population": "18722"
+	}, {
+		"suburb": "Mornington",
+		"population": "22421"
+	}, {
+		"suburb": "Mount Dandenong - Olinda",
+		"population": "9658"
+	}, {
+		"suburb": "Mount Eliza",
+		"population": "17247"
+	}, {
+		"suburb": "Mount Evelyn",
+		"population": "9374"
+	}, {
+		"suburb": "Mount Martha",
+		"population": "17087"
+	}, {
+		"suburb": "Mount Waverley - North",
+		"population": "14916"
+	}, {
+		"suburb": "Mount Waverley - South",
+		"population": "17162"
+	}, {
+		"suburb": "Mulgrave",
+		"population": "17647"
+	}, {
+		"suburb": "Murrumbeena",
+		"population": "8592"
+	}, {
+		"suburb": "Narre Warren",
+		"population": "25882"
+	}, {
+		"suburb": "Narre Warren North",
+		"population": "6986"
+	}, {
+		"suburb": "Narre Warren South",
+		"population": "28594"
+	}, {
+		"suburb": "Newport",
+		"population": "16157"
+	}, {
+		"suburb": "Niddrie - Essendon West",
+		"population": "6267"
+	}, {
+		"suburb": "Noble Park",
+		"population": "28377"
+	}, {
+		"suburb": "Noble Park North",
+		"population": "7390"
+	}, {
+		"suburb": "North Melbourne",
+		"population": "15498"
+	}, {
+		"suburb": "Northcote",
+		"population": "22920"
+	}, {
+		"suburb": "Nunawading",
+		"population": "10947"
+	}, {
+		"suburb": "Oakleigh - Huntingdale",
+		"population": "20233"
+	}, {
+		"suburb": "Ormond - Glen Huntly",
+		"population": "12370"
+	}, {
+		"suburb": "Pakenham - North",
+		"population": "12648"
+	}, {
+		"suburb": "Pakenham - South",
+		"population": "21348"
+	}, {
+		"suburb": "Panton Hill - St Andrews",
+		"population": "5022"
+	}, {
+		"suburb": "Parkville",
+		"population": "6192"
+	}, {
+		"suburb": "Pascoe Vale",
+		"population": "20660"
+	}, {
+		"suburb": "Pascoe Vale South",
+		"population": "9533"
+	}, {
+		"suburb": "Pearcedale - Tooradin",
+		"population": "7477"
+	}, {
+		"suburb": "Plenty - Yarrambat",
+		"population": "8953"
+	}, {
+		"suburb": "Point Cook",
+		"population": "32413"
+	}, {
+		"suburb": "Point Nepean",
+		"population": "16127"
+	}, {
+		"suburb": "Port Melbourne",
+		"population": "14513"
+	}, {
+		"suburb": "Port Melbourne Industrial",
+		"population": "0"
+	}, {
+		"suburb": "Prahran - Windsor",
+		"population": "17487"
+	}, {
+		"suburb": "Preston",
+		"population": "29925"
+	}, {
+		"suburb": "Research - North Warrandyte",
+		"population": "6606"
+	}, {
+		"suburb": "Reservoir - East",
+		"population": "24692"
+	}, {
+		"suburb": "Reservoir - West",
+		"population": "22940"
+	}, {
+		"suburb": "Richmond (Vic.)",
+		"population": "26121"
+	}, {
+		"suburb": "Riddells Creek",
+		"population": "3753"
+	}, {
+		"suburb": "Ringwood",
+		"population": "16009"
+	}, {
+		"suburb": "Ringwood East",
+		"population": "19003"
+	}, {
+		"suburb": "Ringwood North",
+		"population": "9318"
+	}, {
+		"suburb": "Rockbank - Mount Cottrell",
+		"population": "2660"
+	}, {
+		"suburb": "Romsey",
+		"population": "8622"
+	}, {
+		"suburb": "Rosebud - McCrae",
+		"population": "19622"
+	}, {
+		"suburb": "Rowville - Central",
+		"population": "15235"
+	}, {
+		"suburb": "Rowville - North",
+		"population": "8079"
+	}, {
+		"suburb": "Rowville - South",
+		"population": "10828"
+	}, {
+		"suburb": "Roxburgh Park - Somerton",
+		"population": "20051"
+	}, {
+		"suburb": "Sandringham - Black Rock",
+		"population": "15247"
+	}, {
+		"suburb": "Seabrook",
+		"population": "4972"
+	}, {
+		"suburb": "Seaford (Vic.)",
+		"population": "16033"
+	}, {
+		"suburb": "Seddon - Kingsville",
+		"population": "8358"
+	}, {
+		"suburb": "Skye - Sandhurst",
+		"population": "10550"
+	}, {
+		"suburb": "Somerville",
+		"population": "17452"
+	}, {
+		"suburb": "South Melbourne",
+		"population": "9829"
+	}, {
+		"suburb": "South Morang",
+		"population": "38321"
+	}, {
+		"suburb": "South Yarra - East",
+		"population": "14664"
+	}, {
+		"suburb": "South Yarra - West",
+		"population": "5997"
+	}, {
+		"suburb": "Southbank",
+		"population": "11311"
+	}, {
+		"suburb": "Springvale",
+		"population": "19771"
+	}, {
+		"suburb": "Springvale South",
+		"population": "12184"
+	}, {
+		"suburb": "St Albans - North",
+		"population": "18884"
+	}, {
+		"suburb": "St Albans - South",
+		"population": "16209"
+	}, {
+		"suburb": "St Kilda",
+		"population": "22550"
+	}, {
+		"suburb": "St Kilda East",
+		"population": "15709"
+	}, {
+		"suburb": "Strathmore",
+		"population": "9039"
+	}, {
+		"suburb": "Sunbury",
+		"population": "12638"
+	}, {
+		"suburb": "Sunbury - South",
+		"population": "24215"
+	}, {
+		"suburb": "Sunshine",
+		"population": "8838"
+	}, {
+		"suburb": "Sunshine North",
+		"population": "10636"
+	}, {
+		"suburb": "Sunshine West",
+		"population": "16747"
+	}, {
+		"suburb": "Surrey Hills (East) - Mont Albert",
+		"population": "9772"
+	}, {
+		"suburb": "Surrey Hills (West) - Canterbury",
+		"population": "15910"
+	}, {
+		"suburb": "Sydenham",
+		"population": "11529"
+	}, {
+		"suburb": "Tarneit",
+		"population": "21975"
+	}, {
+		"suburb": "Taylors Hill",
+		"population": "15465"
+	}, {
+		"suburb": "Taylors Lakes",
+		"population": "17936"
+	}, {
+		"suburb": "Templestowe",
+		"population": "16484"
+	}, {
+		"suburb": "Templestowe Lower",
+		"population": "13152"
+	}, {
+		"suburb": "Thomastown",
+		"population": "20331"
+	}, {
+		"suburb": "Thornbury",
+		"population": "17435"
+	}, {
+		"suburb": "Toorak",
+		"population": "12871"
+	}, {
+		"suburb": "Truganina",
+		"population": "11168"
+	}, {
+		"suburb": "Tullamarine",
+		"population": "6267"
+	}, {
+		"suburb": "Upwey - Tecoma",
+		"population": "9780"
+	}, {
+		"suburb": "Vermont",
+		"population": "9902"
+	}, {
+		"suburb": "Vermont South",
+		"population": "11416"
+	}, {
+		"suburb": "Viewbank - Yallambie",
+		"population": "18110"
+	}, {
+		"suburb": "Wallan",
+		"population": "12029"
+	}, {
+		"suburb": "Wandin - Seville",
+		"population": "7409"
+	}, {
+		"suburb": "Wantirna",
+		"population": "13767"
+	}, {
+		"suburb": "Wantirna South",
+		"population": "17478"
+	}, {
+		"suburb": "Warrandyte - Wonga Park",
+		"population": "10005"
+	}, {
+		"suburb": "Watsonia",
+		"population": "8984"
+	}, {
+		"suburb": "Wattle Glen - Diamond Creek",
+		"population": "13450"
+	}, {
+		"suburb": "Werribee",
+		"population": "29742"
+	}, {
+		"suburb": "Werribee - South",
+		"population": "10476"
+	}, {
+		"suburb": "West Footscray - Tottenham",
+		"population": "10230"
+	}, {
+		"suburb": "West Melbourne",
+		"population": "0"
+	}, {
+		"suburb": "Wheelers Hill",
+		"population": "19105"
+	}, {
+		"suburb": "Whittlesea",
+		"population": "7414"
+	}, {
+		"suburb": "Williamstown",
+		"population": "14747"
+	}, {
+		"suburb": "Wyndham Vale",
+		"population": "17305"
+	}, {
+		"suburb": "Yarra - North",
+		"population": "8133"
+	}, {
+		"suburb": "Yarra Valley",
+		"population": "15984"
+	}, {
+		"suburb": "Yarraville",
+		"population": "13747"
+	}]
+}
